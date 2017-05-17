@@ -1,2 +1,2 @@
 all: expr.c
-	pcc expr.c
+	gcc expr.c
